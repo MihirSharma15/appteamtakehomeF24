@@ -192,7 +192,7 @@ Example error response:
 
 # Reasoning:
 
-#### The Following information was not by ChatGPT and original thought by Mihir Sharma
+## The Following information was not by ChatGPT and original thought by Mihir Sharma
 
 ##### FastAPI - 
 Very little boilerplate code, I'm comfortable with Python (like cmon who isn't s/o comp 110), and FASTAPI > Flask/Django because it has very limited overhead and has speeds comperable to Go and other serverside languages
@@ -203,7 +203,7 @@ that way no two ids are identical. Also you will notice that the ids are not ass
 
 ##### Error handling - 
 Status code inform the frontend about bad requests such as invalid dates. I think 
-Status codes>>> since they are known by most people
+Status codes>>> since they are known by most people.
 
 
 Created with <3 by Mihir Sharma
